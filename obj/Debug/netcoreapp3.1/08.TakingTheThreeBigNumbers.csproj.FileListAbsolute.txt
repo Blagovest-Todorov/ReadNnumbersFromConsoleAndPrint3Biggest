@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\01.LinqTuition\08.TakingTheThreeBigNumbers\bin\Debug\netcoreapp3.1\08.TakingTheThreeBigNumbers.exe
+C:\Users\Bla\source\repos\01.LinqTuition\08.TakingTheThreeBigNumbers\bin\Debug\netcoreapp3.1\08.TakingTheThreeBigNumbers.deps.json
+C:\Users\Bla\source\repos\01.LinqTuition\08.TakingTheThreeBigNumbers\bin\Debug\netcoreapp3.1\08.TakingTheThreeBigNumbers.runtimeconfig.json
+C:\Users\Bla\source\repos\01.LinqTuition\08.TakingTheThreeBigNumbers\bin\Debug\netcoreapp3.1\08.TakingTheThreeBigNumbers.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.LinqTuition\08.TakingTheThreeBigNumbers\bin\Debug\netcoreapp3.1\08.TakingTheThreeBigNumbers.dll
+C:\Users\Bla\source\repos\01.LinqTuition\08.TakingTheThreeBigNumbers\bin\Debug\netcoreapp3.1\08.TakingTheThreeBigNumbers.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\08.TakingTheThreeBigNumbers\obj\Debug\netcoreapp3.1\08.TakingTheThreeBigNumbers.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\08.TakingTheThreeBigNumbers\obj\Debug\netcoreapp3.1\08.TakingTheThreeBigNumbers.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.LinqTuition\08.TakingTheThreeBigNumbers\obj\Debug\netcoreapp3.1\08.TakingTheThreeBigNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\08.TakingTheThreeBigNumbers\obj\Debug\netcoreapp3.1\08.TakingTheThreeBigNumbers.dll
+C:\Users\Bla\source\repos\01.LinqTuition\08.TakingTheThreeBigNumbers\obj\Debug\netcoreapp3.1\08.TakingTheThreeBigNumbers.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\08.TakingTheThreeBigNumbers\obj\Debug\netcoreapp3.1\08.TakingTheThreeBigNumbers.genruntimeconfig.cache
